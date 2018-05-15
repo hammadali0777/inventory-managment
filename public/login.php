@@ -121,13 +121,14 @@ if(isset($_POST['submit']))
 							<label class="form-txt">Logout</label>
 						</div>
 					</center>
+					
 				</div>
 			</div>
 			<div class="col-md-9">
 				<div class="form-col-right">
 					<!-- Form Div  -->
 					<center>
-						<div class="form">
+						<div class="form"> 
 							<!-- <div class="right-text">
 								Register Form
 							</div> -->
